@@ -1,0 +1,24 @@
+{
+  "name": "buy-me-coffee-eth",
+  "version": "1.0.0",
+  "description": "dApp to allow people to buy me coffee using eth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williampsmith/buy-me-coffee-eth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williampsmith/buy-me-coffee-eth/issues"
+  },
+  "homepage": "https://github.com/williampsmith/buy-me-coffee-eth#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.11.1"
+  }
+}
